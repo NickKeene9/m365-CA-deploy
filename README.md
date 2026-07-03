@@ -1,6 +1,6 @@
 # Entra ID Conditional Access Hardening Framework
 
-Deployable Conditional Access policy set for post-breach Microsoft 365 tenant hardening. Built for my own use remediating breached client tenants for cyber insurance engagements. The design goal above all others is **reducing the chance of a second breach**, which means every script is safe by default, not just functional.
+Deployable Conditional Access policy set for post-breach Microsoft 365 tenant hardening. Built for my own use remediating breached client tennts. The design goal above all others is **reducing the chance of a second breach**, which means every script is safe by default, not just functional.
 
 ## Design principles
 
